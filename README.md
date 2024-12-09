@@ -11,7 +11,7 @@ Here are some screenshots of the project:
 
 ### License
 
-The project is licensed under the MIT License. See the [LICENSE](../../LICENSE) file for more details.
+The project is licensed under the MIT License. See the [LICENSE](../../LICENSE) file for more details. Images are generated and don't use these images until have valid license. 
 
 ### Contact
 
